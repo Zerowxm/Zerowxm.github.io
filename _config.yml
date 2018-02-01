@@ -32,7 +32,7 @@ footer-links:
   flickr:
   github: Zerowxm
   instagram:
-  linkedin:
+  linkedin: wxmzero
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 2885313060ab4ee
@@ -65,14 +65,14 @@ lang: en #the language of your site, eg: en(English), zh(简体中文), zh-Hans(
 ## Author & social ##
 author:
   name: Xiaoming
-  # email:  #your Email address e.g. someone@site.com
-  # facebook:  #your Facebook username
-  # twitter:  #your Twitter username
-  # github:  #your GitHub username
-  # googleplus:  #your Google+ username
-  # weibo:  #your Weibo username
-  # douban:  #your Douban username
-  # linkedin:  #your Linkedin username
+  email:  zerowxm@gmail.com
+  facebook:  #your Facebook username
+  twitter:  #your Twitter username
+  github:  Zerowxm
+  googleplus:  u/0/103551148472099112083
+  weibo:  #your Weibo username
+  douban:  #your Douban username
+  linkedin:  wxmzero
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
