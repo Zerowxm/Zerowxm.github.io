@@ -1,3 +1,4 @@
+---
 layout: post
 title: Remove nth node in LinkedList
 key: 20180213
